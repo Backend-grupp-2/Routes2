@@ -11,8 +11,8 @@
     <groupId>org.example</groupId>
     <artifactId>Routesgithub</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Routes</name>
-    <description>Routes</description>
+    <name>Routesgithub</name>
+    <description>Routesgithub</description>
     <properties>
         <java.version>17</java.version>
     </properties>
